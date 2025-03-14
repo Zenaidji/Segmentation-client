@@ -2,7 +2,7 @@
 
 Ce projet implémente une segmentation client en utilisant **PySpark** et l'algorithme **KMeans**. La segmentation repose sur la méthode **RFM (Récence, Fréquence, Montant)** pour mieux comprendre le comportement des clients et optimiser les stratégies marketing.
 
-Le fichier **`MSPR_Clustring.ipynb`** contiens le code complets du projet avec la partie Nettoyage et éxploration des données.
+Le fichier **`MSPR_Clustring.ipynb`** contient le code complet du projet avec la partie Nettoyage et exploration des données.
 
 ## Méthodologie
 
